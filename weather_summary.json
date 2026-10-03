@@ -1,0 +1,80 @@
+{
+  "source_url": "https://api.open-meteo.com/v1/forecast?latitude=43.65&longitude=79.38&hourly=temperature_2m,precipitation&past_days=7&forecast_days=0&timezone=America/Toronto",
+  "records_processed": 168,
+  "invalid_records_skipped": 0,
+  "days_processed": 7,
+  "daily_summary": {
+    "2026-09-25": {
+      "record_count": 24,
+      "average_temperature": 19.28,
+      "total_precipitation": 0.0
+    },
+    "2026-09-26": {
+      "record_count": 24,
+      "average_temperature": 18.46,
+      "total_precipitation": 0.0
+    },
+    "2026-09-27": {
+      "record_count": 24,
+      "average_temperature": 19.63,
+      "total_precipitation": 0.0
+    },
+    "2026-09-28": {
+      "record_count": 24,
+      "average_temperature": 18.35,
+      "total_precipitation": 0.0
+    },
+    "2026-09-29": {
+      "record_count": 24,
+      "average_temperature": 18.25,
+      "total_precipitation": 0.0
+    },
+    "2026-09-30": {
+      "record_count": 24,
+      "average_temperature": 20.42,
+      "total_precipitation": 0.0
+    },
+    "2026-10-01": {
+      "record_count": 24,
+      "average_temperature": 21.72,
+      "total_precipitation": 0.2
+    }
+  },
+  "temperature_categories": {
+    "warm": 80,
+    "mild": 87,
+    "cool": 1
+  },
+  "overall": {
+    "average_temperature": 19.44,
+    "total_precipitation": 0.2,
+    "maximum_temperature": 27.9,
+    "minimum_temperature": 9.9
+  },
+  "most_recent_24_temperatures": [
+    21.4,
+    23.6,
+    25.6,
+    26.9,
+    27.6,
+    27.9,
+    27.7,
+    27.2,
+    25.4,
+    23.7,
+    24.5,
+    23.5,
+    22.9,
+    20.8,
+    19.7,
+    19.6,
+    18.7,
+    17.7,
+    17.4,
+    17.0,
+    16.0,
+    15.9,
+    15.8,
+    14.9
+  ]
+}
